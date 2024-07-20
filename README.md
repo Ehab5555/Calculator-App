@@ -10,3 +10,5 @@ It supports basic arithmetic operations such as addition, subtraction, multiplic
 - Responsive design for both mobile and tablet devices.
 - Error handling for invalid inputs.
 - Clear and backspace functionalities.
+
+![Calculator App](https://github.com/user-attachments/assets/d9ba0006-73ab-41c3-821c-35eccef9753d)
