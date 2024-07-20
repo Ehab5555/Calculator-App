@@ -5,9 +5,8 @@ It supports basic arithmetic operations such as addition, subtraction, multiplic
 
 ## Features
 
-Basic arithmetic operations: addition, subtraction, multiplication, and division.
-User-friendly interface.
-Responsive design for both mobile and tablet devices.
-Error handling for invalid inputs.
-Clear and backspace functionalities.
-
+- Basic arithmetic operations: addition, subtraction, multiplication, and division.
+- User-friendly interface.
+- Responsive design for both mobile and tablet devices.
+- Error handling for invalid inputs.
+- Clear and backspace functionalities.
