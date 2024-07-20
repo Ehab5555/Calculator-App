@@ -10,3 +10,4 @@ User-friendly interface.
 Responsive design for both mobile and tablet devices.
 Error handling for invalid inputs.
 Clear and backspace functionalities.
+
