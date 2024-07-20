@@ -11,4 +11,4 @@ It supports basic arithmetic operations such as addition, subtraction, multiplic
 - Error handling for invalid inputs.
 - Clear and backspace functionalities.
 
-![Calculator App](https://github.com/user-attachments/assets/d9ba0006-73ab-41c3-821c-35eccef9753d)
+![Calculator App](https://github.com/user-attachments/assets/fb6eacd6-1bab-4d33-aa3b-cde676ac2836)
